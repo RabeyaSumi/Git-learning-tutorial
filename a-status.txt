@@ -1,0 +1,2 @@
+-untracked: when a new file created and git not yet tracked. 
+         Here I have created a new file "a-status.txt" with this untracked description.
