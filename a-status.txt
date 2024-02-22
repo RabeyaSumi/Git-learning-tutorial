@@ -1,2 +1,14 @@
+-status: 
+    Command to check git status.
+        git status
+
 -untracked: when a new file created and git not yet tracked. 
-         Here I have created a new file "a-status.txt" with this untracked description.
+    Here I have created a new file "a-status.txt" with this untracked description.
+    Now I need to add this file into the git repository.
+
+    -Command to add a new created file to git.
+               
+        git add filename
+        git add a-status.txt
+
+     Now I need to add the untracked description.   
