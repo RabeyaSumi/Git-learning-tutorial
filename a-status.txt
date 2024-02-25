@@ -33,4 +33,13 @@ Note: untracked and modified files need to add with the command
         git commit -m "some messages"
         git commit -m "Add file's text content"               (after adding content in a-status.txt)
 
--
+-Git push: Now finished commiting content of "a-status.txt" file content to local repo.
+    Now it need to be push to remote repository. Our remote origin is the on branch repository we cloned, from 
+    github.
+    
+    -Command to push our newly commited work to the remote repo.
+        git push origin main
+    
+    Note: 'main' is my remote repository's(cloned) default branch where we are working remotely.
+        -Command to see the current branch
+            git branch
