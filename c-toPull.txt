@@ -8,3 +8,5 @@
 
   -Command to pull content from remote repository.
         git pull
+
+  Then local repo shows file "c-toPull.txt".
