@@ -25,6 +25,7 @@
         origin  https://github.com/RabeyaSumi/takeLocal (fetch)
         origin  https://github.com/RabeyaSumi/takeLocal (push)
 
+-Add files: Add and push two files "index.html" and "style.css" to this repository. We need to follow command from "a-status.txt" file.
 
 
 -Note: Now We have two git repository in our computer local folder "Git Learning Documentation".
